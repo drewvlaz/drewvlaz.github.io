@@ -78,13 +78,15 @@ footer {
     overflow-x: auto;
 }
 @media (max-width: 480px) {
-    body {
+    main {
         margin: 10px auto;
-        padding: 10px;
-        border-width: 1px;
-        box-shadow: 3px 3px 0px #333;
+        padding: 15px;
+        box-shadow: 4px 4px 0px #333;
     }
     ul {
         padding-left: 15px;
+    }
+    body {
+        padding: 10px;
     }
 }
