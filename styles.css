@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body {
-    font-family: "Courier New", Courier, monospace;
+    font-family: "Geist Mono";
     line-height: 1.6;
     background-color: #f4f0e0; /* light beige background */
     background-image: radial-gradient(rgba(150, 150, 150, 0.2) 1px, transparent 1px);
